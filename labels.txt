@@ -1,1 +1,11 @@
-raccoon
+aeroplane
+bird
+boat
+car
+cat
+cow
+dog
+horse
+motorbike
+train
+
